@@ -1,4 +1,4 @@
->Answers for the questions are stored in a pdf file named 'Assignment1_nlp.pdf'
->I have used Jupyter notebook 'NLP Assignment_1 Notebook.ipynb' to show the results for example cases.
+>The aim of this project is to create an Information Retrieval System based on Vector Space models.
+>I have used standard Cranfield dataset for this project.
 >'Running main file.ipynb' is used to run main.py
 >The final output is stored in 'result' folder.
